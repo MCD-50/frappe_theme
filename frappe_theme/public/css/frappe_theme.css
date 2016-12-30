@@ -617,8 +617,8 @@ article hr + h3 {
 }
 .navbar-icon {
   width: 24px;
-  margin-right: 7px;
-  margin-top: -3px;
+  margin-right: 5px;
+  margin-top: 0px;
 }
 .large-description {
   line-height: 1.5;
